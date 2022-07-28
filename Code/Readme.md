@@ -2,5 +2,5 @@
 
 X_Y.png
 
-X .. Question number
+X .. Question number  
 Y .. Question type
