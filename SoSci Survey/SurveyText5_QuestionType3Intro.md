@@ -18,3 +18,16 @@ Wenn Sie nun auf eine **andere Stelle klicken**,
  Hier sind mehrere Optionen angeboten, wie man in wenigen Worten den Sinn dieser
  Funktion beschreiben kann.  
  Bitte wählen Sie die Option, die das Ziel des Codefragments am besten erklärt.     
+
+
+-------------------
+*(answer shown after completing the question | Antwort wird nach der Beantwortung der Frage gezeigt)*
+
+------------------------
+
+## Die Antwort
+Die richtige Antwort in diesem Fall ist **Quadrierung**.  
+In diesem Snippet wird eine Variable mit sich selbst multipliziert und das Ergebnis davon wird dann ausgegeben.  
+Bananenbrot ist keine sinnvolle Beschreibung einer Funktion.  
+Man könnte das ganze auch mittels Addition erklären, jedoch wird eindeutig Multipliziert, sodass Quadrierung deutlich passender ist.  
+Und für einen Suchalgorithmus fehlt ein Graph und die Start- und Endknoten.  
