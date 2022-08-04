@@ -31,6 +31,21 @@ Es werden die Variablen **in Laufzeit** betrachtet,
 sodass in einer Zeile eine Variable unterschiedliche Werte haben kann,  
 zum Beispiel, wenn sie in einer Schleife vorkommt.    
 
-----------------
 
----------
+-------------------
+*(answer shown after completing the question | Antwort wird nur nach der Beantwortung der Frage gezeigt)*
+
+------------------------
+
+
+## Die Antwort
+Die richtige Antwort in diesem Fall ist die Zeile 5.  
+Hier ist hat 'array.length' den größten Wert im Snippet. Der Wert von 'array.length' ist 5.    
+
+Zwar gibt es auch bei **Zeile 2** die Liste, die bei array[4] == 5 ist, jedoch wird das Element hier nicht einzeln aufgerufen. 
+
+In **Zeile 6** wird das letzte Listenelement im letzten Durchlauf der Zeile aufgerufen, 
+jedoch passiert das zeitlich nachdem nach 'array.length' gefragt wird.              
+
+In **Zeile 9** wird das Ergebnis abgefragt, aber dieses ist hier nicht unbedingt von Belang. 
+Ausserdem ist es zu diesem Zeitpunkt "-15", was auch kleiner als 5 wäre.  
