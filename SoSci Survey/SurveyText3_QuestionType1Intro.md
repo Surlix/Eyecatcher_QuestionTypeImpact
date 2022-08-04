@@ -17,3 +17,12 @@ wird die **angeklickte Stelle scharf** gestellt.<br>Wenn Sie nun auf eine **ande
 ## Informationen zu DIESER FRAGE
 Hier wird nach der Ausgabe des Programm-Snippets gefragt.<br>Eine der vier Multiple Choice Antworten ist richtig.  
 Bitte wählen Sie die Richtige.   
+
+
+------------------------
+
+## Die Antwort
+
+Die richtige Antwort in diesem Fall ist 10.
+
+Hier wird die Summe von 2 Variablen gebildet, und das Resultat davon dann ausgegeben.
