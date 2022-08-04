@@ -33,7 +33,7 @@ zum Beispiel, wenn sie in einer Schleife vorkommt.
 
 
 -------------------
-*(answer shown after completing the question | Antwort wird nur nach der Beantwortung der Frage gezeigt)*
+*(answer shown after completing the question | Antwort wird nach der Beantwortung der Frage gezeigt)*
 
 ------------------------
 
