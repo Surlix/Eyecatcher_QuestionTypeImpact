@@ -19,6 +19,10 @@ Hier wird nach der Ausgabe des Programm-Snippets gefragt.<br>Eine der vier Multi
 Bitte wählen Sie die Richtige.   
 
 
+
+-------------------
+*(answer shown after completing the question | Antwort wird nur nach der Beantwortung der Frage gezeigt)*
+
 ------------------------
 
 ## Die Antwort
